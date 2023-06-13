@@ -4,7 +4,7 @@ Try it out and perform calculations effortlessly with this Windows 10 calculator
 
 A replica of the Windows 10 calculator built using HTML, CSS, and JavaScript.
 
-![Calculator Screenshot](calculator-screenshot.png)
+![Calculator Screenshot](img/calculator.png)
 
 ## Features
 
