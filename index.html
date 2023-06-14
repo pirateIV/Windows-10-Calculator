@@ -1,0 +1,83 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <link rel="stylesheet" href="calc.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!-- <link rel="stylesheet" href="./fontawesome-free-5.12.0-web/css/all.min.css"> -->
+  </head>
+  <body>
+    <div class="calculator">
+      <div class="container">
+        <div class="top">
+          <div class="top-bar">
+            <i class="fas fa-bars"></i>
+            <h3>Standard</h3>
+          </div>
+          <i class="fas fa-clock"></i>
+        </div>
+        <div class="bars">
+          <input type="text" value="333" readonly />
+          <input type="text" id="display-input" />
+        </div>
+        <div class="Ms">
+          <button disabled>MC</button>
+          <button disabled>MR</button>
+          <button>M+</button>
+          <button>M-</button>
+          <button>MS</button>
+          <button disabled>
+            M
+            <sup><i class="fa fa-caret-down"></i></sup>
+          </button>
+        </div>
+      </div>
+
+      <div class="btns">
+        <button>%</button>
+        <button>CE</button>
+        <button>C</button>
+        <button>
+          <i class="fa fa-backspace"></i>
+        </button>
+
+        <button><sup>1</sup>/x</button>
+        <button>x<sup>2</sup></button>
+        <button><sup>2</sup>√x</button>
+        <button>÷</button>
+
+        <button id="num">7</button>
+        <button id="num">8</button>
+        <button id="num">9</button>
+        <button>×</button>
+
+        <button id="num">4</button>
+        <button id="num">5</button>
+        <button id="num">6</button>
+        <button>-</button>
+
+        <button id="num">1</button>
+        <button id="num">2</button>
+        <button id="num">3</button>
+        <button>+</button>
+
+        <button>+/-</button>
+        <button id="num">0</button>
+        <button id="num">.</button>
+        <button>=</button>
+      </div>
+    </div>
+
+    <script src="calc.js"></script>
+  </body>
+</html>
