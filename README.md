@@ -35,10 +35,6 @@ To get a local copy up and running, follow these steps:
 
 Contributions are welcome! If you have any suggestions, bug fixes, or additional features to add, please open an issue or submit a pull request. 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - This project was inspired by the design and functionality of the Windows 10 calculator.
