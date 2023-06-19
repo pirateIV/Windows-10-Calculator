@@ -16,7 +16,7 @@ A replica of the Windows 10 calculator built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can try out the Windows 10 Calculator [here](https://your-calculator-url.com).
+You can try out the Windows 10 Calculator [here]([https://your-calculator-url.com](https://ben64103.github.io/Windows-10-Calculator/)).
 
 ## Getting Started
 
