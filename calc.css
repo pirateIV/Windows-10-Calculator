@@ -10,7 +10,7 @@ body {
 }
 
 .calculator {
-  width: 45%;
+  width: 350px;
   margin: 50px auto 0;
   background-color: #eee; 
   border-radius: 10px;
@@ -106,9 +106,12 @@ body {
 .btns button:last-of-type{
   background-color: lightblue;
 }
+<<<<<<< HEAD
 
 .prev-input {
   display: flex;
   align-items: center;
   font-size: 15px;
 }
+=======
+>>>>>>> 0dbd1ff8d4b2c98fb69bcf2231d8a0ad2f6704f7
