@@ -48,6 +48,7 @@ body {
   outline: none;
   background-color: transparent;
   font-weight: bold;
+  font-size: 19px;
 }
 .bars input:last-child {
   height: 70px;
@@ -104,4 +105,10 @@ body {
 }
 .btns button:last-of-type{
   background-color: lightblue;
+}
+
+.prev-input {
+  display: flex;
+  align-items: center;
+  font-size: 15px;
 }
